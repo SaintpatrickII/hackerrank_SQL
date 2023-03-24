@@ -5,5 +5,3 @@ CITY LIKE 'e%' OR
 CITY LIKE 'i%' OR
 CITY LIKE 'o%' OR
 CITY LIKE 'u%');
-
--- or WHERE CITY LIKE [AEIOU]%
